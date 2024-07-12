@@ -1,8 +1,8 @@
-- 👋 Hi! I’m Gbemisola Busari, a Data Scientist and Analyst
-- 👀 skilled in Excel, Power BI, SQL, and Python 
-- 🌱 interested in using the data approach to solve real-life problems, building AI models that will help businesses easily see opportunities for growth and expansion 
-- 💞️ looking to collaborate on Data Science and AI projects to foster learning and skills advancement
-- 📫 You can connect with me on LinkedIn using the URL - https://www.linkedin.com/in/gbemisola-busari.
+- 👋 Hi! I am Gbemisola Alo, a Data and Business Intelligence Analyst passionate about data education and mentorship.
+- 👀 skilled in Excel, Looker Studio, Power BI, SQL, and Python 
+- 🌱 interested in helping aspiring data professional gain mastery of data analytics techniques.
+- 💞️ looking to collaborate with like-minded data analyst to foster learning and skills advancement in aspiring data analysts.
+- 📫 If our goals align, you can shoot a mail to gbemisolamarg@gmail.com or connect with me on LinkedIn using this URL - https://www.linkedin.com/in/gbemisola-busari.
 
 <!---
 DSgbemisola/DSgbemisola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
